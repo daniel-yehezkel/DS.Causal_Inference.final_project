@@ -1,0 +1,18 @@
+,,Chi Square,p value
+school,school,0.52,0.47
+sex,sex,52.58,<0.05
+address,address,0.72,0.396
+famsize,famsize,6.53,<0.05
+Pstatus,Pstatus,2.6,0.107
+Mjob,Mjob,2.44,0.655
+Fjob,Fjob,10.12,<0.05
+reason,reason,3.92,0.271
+guardian,guardian,1.78,0.411
+schoolsup,schoolsup,1.03,0.311
+famsup,famsup,1.83,0.176
+paid,paid,1.34,0.246
+activities,activities,0.83,0.363
+nursery,nursery,2.27,0.132
+higher,higher,5.24,<0.05
+internet,internet,1.27,0.26
+romantic,romantic,0.03,0.864
